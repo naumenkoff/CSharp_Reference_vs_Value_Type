@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Reference_vs_Value_Type", "CSharp_Reference_vs_Value_Type\CSharp_Reference_vs_Value_Type.csproj", "{0BA792B4-2284-401C-B752-F34EDD92CBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA792B4-2284-401C-B752-F34EDD92CBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA792B4-2284-401C-B752-F34EDD92CBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA792B4-2284-401C-B752-F34EDD92CBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA792B4-2284-401C-B752-F34EDD92CBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
